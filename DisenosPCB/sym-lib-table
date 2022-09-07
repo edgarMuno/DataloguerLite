@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DATALITE-rescue)(type Legacy)(uri ${KIPRJMOD}/DATALITE-rescue.lib)(options "")(descr ""))
+)
